@@ -1,13 +1,30 @@
 # Rider. Immediate Window
 
 1. [ ] evaluate expressions
-2. [ ] execute statements
-3. [ ] print values
-   4. [ ] variable
-   5. [ ] object
-6. [ ] change variable
-7. [ ] instantiate objects
-8. [ ] call methods
-9. [ ] breakpoints
-   10. [ ] put
-   11. [ ] hit
+   2. [ ] call
+   3. [ ] comparisons (><=)
+4. [ ] synthetic variables
+   5. [ ] create
+   6. [ ] call
+   7. [ ] modify
+8. [ ] execute
+   9. [ ] just functions
+   10. [ ] methods with different access modifiers
+   11. [ ] methods with exceptions
+   12. [ ] simple commands (+,-,*,/,%)
+13. [ ] modify
+    14. [ ] variable
+    15. [ ] objects
+    16. [ ] synthetic variables
+17. [ ] history
+18. [ ] copy/paste
+19. [ ] context menu
+    20. [ ] Clear all
+    21. [ ] Compare with clipboard
+    22. [ ] Search with Google
+    23. [ ] Pause output
+    24. [ ] Create Gist
+25. [ ] breakpoints
+26. [ ] watches
+27. [ ] evaluate in dialogue window
+28. [ ] interactions with window itself (change size, drag-n-drop, etc.)
