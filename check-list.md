@@ -1,26 +1,25 @@
 # Rider. Immediate Window
 
-1. evaluate expressions
+1. [ ] evaluating expressions
   - [ ] call
   - [ ] just variables
   - [ ] properties with different access modifiers
   - [ ] comparisons (><=)
-2. synthetic variables
+2. [ ] synthetic variables
   - [ ] create
   - [ ] call
   - [ ] modify
-3. execute
+3. [ ] execute
   - [ ] just functions
   - [ ] methods with different access modifiers
   - [ ] methods with exceptions
   - [ ] simple commands (+,-,*,/,%)
-4. modify
+4. [ ] modify
   - [ ] variable
   - [ ] objects
   - [ ] synthetic variables
-5. history
-- [ ] navigation
-6. copy/paste
+5. [ ] history
+6. [ ] copy/paste
   - [ ] simple copy
   - [ ] copy path/reference
   - [ ] simple paste
