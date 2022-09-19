@@ -1,37 +1,37 @@
 # Rider. Immediate Window
 
-1. [ ] evaluating expressions
-    - [ ] call
-    - [ ] just variables
-    - [ ] properties with different access modifiers
-    - [ ] comparisons (><=)
-2. [ ] synthetic variables
-    - [ ] create
-    - [ ] call
-    - [ ] modify
-3. [ ] execute
-    - [ ] just functions
-    - [ ] methods with different access modifiers
-    - [ ] methods with exceptions
-    - [ ] simple commands (+,-,*,/,%)
-4. [ ] modify
-    - [ ] variable
-    - [ ] objects
-    - [ ] synthetic variables
-5. [ ] history
-6. [ ] copy/paste
-    - [ ] simple copy
-    - [ ] copy path/reference
-    - [ ] simple paste
-    - [ ] paste from History
-    - [ ] paste as plain text
-7. [ ] context menu
-   - [ ] Clear all
-   - [ ] Compare with clipboard
-   - [ ] Search with Google
-   - [ ] Pause output
-   - [ ] Create Gist
-- [ ] breakpoints
-- [ ] watches
-- [ ] evaluate in dialogue window
-- [ ] interactions with window itself (change size, drag-n-drop, etc.)
+1. [x] evaluating expressions
+    - [x] call
+    - [x] just variables
+    - [x] properties with different access modifiers
+    - [x] comparisons (><=)
+2. [x] synthetic variables
+    - [x] create
+    - [x] call
+    - [x] modify
+3. [x] execute
+    - [x] just functions
+    - [x] methods with different access modifiers
+    - [x] methods with exceptions
+    - [x] simple commands (+,-,*,/,%)
+4. [x] modify
+    - [x] variable
+    - [x] objects
+    - [x] synthetic variables
+5. [x] history
+6. [x] copy/paste
+    - [x] simple copy
+    - [x] copy path/reference
+    - [x] simple paste
+    - [x] paste from History
+    - [x] paste as plain text
+7. [x] context menu
+   - [x] Clear all
+   - [x] Compare with clipboard
+   - [x] Search with Google
+   - [x] Pause output
+   - [x] Create Gist
+- [x] breakpoints
+- [x] watches
+- [x] evaluate in dialogue window
+- [x] interactions with window itself (change size, drag-n-drop, etc.)
