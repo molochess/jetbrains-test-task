@@ -2,6 +2,8 @@
 
 1. [ ] evaluate expressions
    2. [ ] call
+      3. [ ] just variables
+      4. [ ] properties with different access modifiers
    3. [ ] comparisons (><=)
 4. [ ] synthetic variables
    5. [ ] create
@@ -18,6 +20,11 @@
     16. [ ] synthetic variables
 17. [ ] history
 18. [ ] copy/paste
+    19. [ ] simple copy
+    20. [ ] copy path/reference
+    20. [ ] simple paste
+    20. [ ] paste from History
+    21. [ ] paste as plain text
 19. [ ] context menu
     20. [ ] Clear all
     21. [ ] Compare with clipboard
